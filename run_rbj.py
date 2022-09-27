@@ -50,7 +50,9 @@ import shutil
 	in each new version
 
 #### Update Plans
-  - Something that still needs to be updated
+  - Option to provide name that is prepended to output files.
+  - change output frequency report name from "RBJ_error_frequency_report" to "RBJ_frequency_report"
+  - zip the output shapefiles for easy transfer
 
 '''
 
